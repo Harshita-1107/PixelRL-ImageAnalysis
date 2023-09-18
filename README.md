@@ -50,7 +50,7 @@ python train.py --scale=2              \
 **NOTE**: if you want to re-train a new model, you should delete all files in **checkpoint** sub-directory. Your checkpoint will be saved when above command finishs and can be used for the next times, so you can train a model on Google Colab without taking care of GPU time limit.
 
 I trained the models on Google Colab in 2000 steps:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nhat-Thanh/PixelRL-SR/blob/main/PixelRL-SR.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]((https://colab.research.google.com/drive/1FyqQO7yEY2gzK9vB-07N-vQsC0wmacit#scrollTo=UJu5zeBgtdDL))
 
 You can get the models here: 
 - [PixelRL_SR-x2.pt](checkpoint/x2/PixelRL_SR-x2.pt)
